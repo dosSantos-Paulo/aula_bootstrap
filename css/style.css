@@ -1,0 +1,16 @@
+.navbar {
+    background-color: rgb(226, 226, 226);
+}
+
+.padding{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.margin{
+    margin: 25px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding-bottom: 5px;
+}
